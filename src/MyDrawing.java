@@ -1,3 +1,4 @@
+// Karl Anderson & Ben Carlson
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
